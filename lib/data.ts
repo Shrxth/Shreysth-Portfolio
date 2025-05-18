@@ -95,7 +95,7 @@ export const CertificationsData: CertificationItem[] = [
     icon: React.createElement(LuGraduationCap),
     date: "2020-2023",
   },
-] as const;
+] ;
 
 export const projectsData = [
   {
